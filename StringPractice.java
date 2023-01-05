@@ -17,7 +17,7 @@ public class StringPractice {
 				boolean equals = s.equals(s1);
 				System.out.println(equals);
 		System.out.println("Hi");
-		System.out.println("Hi1");
+		
 				
 			
 				
